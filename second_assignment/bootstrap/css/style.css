@@ -1,0 +1,100 @@
+.body{
+  background-image: url(../img/back.jpg);
+  background-size: cover;
+}
+
+.my_items{
+  /*font-family: serif;*/
+  font-family: Lobster, cursive;
+  list-style: arabic-indic;
+  padding-right: 10px;
+  font-size: 18px;
+  float: right;
+}
+
+#logo1{
+  /*margin-top: 25px;*/
+  width: 120px;
+  height: 35px;
+  padding-top: 0px;
+  padding-left: 10px;
+}
+#abt{
+  padding-right: 20px;
+}
+/*.navbar-form{
+  margin-top: 55px;
+}*/
+.banner{
+  width: 100%;
+  background-size: cover;
+}
+
+#pics{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+  height: 300px;
+  width: 300px;
+}
+
+.pic-text{
+  text-align:center;
+}
+
+#sliderimg{
+  width: 1020px;
+  height: 481px;
+}
+
+.row{
+    padding-top: 60px;
+}
+
+.jumbotron{
+  text-align: center;
+}
+
+#videosection-text{
+  padding-left: 50px;
+}
+
+.v1heading{
+  font-size: 28px;
+  color: #8112B8;
+  border: solid;
+  border-color: black;
+  border-bottom-color: transparent;
+  border-right-color: transparent;
+  padding-left: 20px;
+}
+
+.v2para{
+  border: solid;
+  border-color: black;
+  border-top-color: transparent;
+  border-bottom-color: transparent;
+  border-right-color: transparent;
+  padding-left: 20px;
+  text-align: justify;
+}
+
+
+#foot{
+  height: 60px;
+  background-color: black;
+  align-items: center;
+}
+
+.foot-icon{
+  height: 50px;
+  padding-top: 10px;
+}
+
+.footer-text{
+  color: white;
+}
+
+#row3{
+padding-top: 0px;
+}
